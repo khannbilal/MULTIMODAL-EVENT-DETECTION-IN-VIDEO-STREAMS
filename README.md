@@ -52,7 +52,7 @@ Libraries: PyTorch, TorchAudio, OpenCV, Transformers, NumPy, Matplotlib
  Metrics: mAP, Temporal IoU, Precision, Recall.
  Visualized detection timelines with attention heatmaps across frames.
 
-Architecture (Textual Diagram)
+# Architecture (Textual Diagram)
 
           ┌──────────────────────────────┐
           │ Input Video + Audio Stream   │
